@@ -8,8 +8,9 @@ This is a Files and Serialization practice.
 - At the start of any round, the player also has the option to save the game. 
     - The game object is then serialized and saved into a `yaml` file.
 - When the program loads again, if there are previously saved games, players can jump back to where they were when they saved.
-- You can save multiple games in `yaml` in the same file called `save`. <br />
+- You can save multiple games in `yaml` in the same file called `save`. <br /><br />
 
+Note: 
 - The `Game` class is implemented with encapsulation and private methods.
 - `UserIO` is a helper module.
 
